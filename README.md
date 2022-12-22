@@ -1,1 +1,1 @@
-# DataStructuresInCsharp
+# Contains a detailed review of all the common data structures, together with multiple algorithm excercises. It also provides implementation level details in C# for some (Graphs, Heaps, Tries) that don't have a framework built in data structure.
